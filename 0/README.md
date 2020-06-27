@@ -1,4 +1,4 @@
-## A Box
+## Rendering a Box
 ### Experiment 0
 
 #### New to Me
