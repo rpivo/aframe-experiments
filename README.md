@@ -5,4 +5,5 @@
 - 3 / [The rotation Attribute](https://github.com/rpivo/aframe-experiments/tree/master/3)
 - 4 / [Object Color](https://github.com/rpivo/aframe-experiments/tree/master/4)
 - 5 / [The depth Attribute](https://github.com/rpivo/aframe-experiments/tree/master/5)
-- 5 / [The \<a-sphere\> Object](https://github.com/rpivo/aframe-experiments/tree/master/6)
+- 6 / [The \<a-sphere\> Object](https://github.com/rpivo/aframe-experiments/tree/master/6)
+- 7 / [metalness, roughness, & wireframe Attributes](https://github.com/rpivo/aframe-experiments/tree/master/7)
