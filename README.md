@@ -7,3 +7,4 @@
 - 5 / [The depth Attribute](https://github.com/rpivo/aframe-experiments/tree/master/5)
 - 6 / [The \<a-sphere\> Object](https://github.com/rpivo/aframe-experiments/tree/master/6)
 - 7 / [metalness, roughness, & wireframe Attributes](https://github.com/rpivo/aframe-experiments/tree/master/7)
+- 8 / [The \<a-cylinder\> Object](https://github.com/rpivo/aframe-experiments/tree/master/8)
