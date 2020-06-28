@@ -1,4 +1,4 @@
-## Experiment 0: Rendering a Box
+## Experiment 0: The \<a-box\> Object
 
 #### New to Me
 - importing the preminified Aframe code from aframe.io/releases
