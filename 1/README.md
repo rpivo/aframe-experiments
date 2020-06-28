@@ -1,5 +1,4 @@
-## Installing aframe and Its Types From NPM
-### Experiment 1
+## Experiment 1: Installing aframe and Its Types From NPM
 
 #### New to Me
 - installing the `aframe` NPM package in a Node project.

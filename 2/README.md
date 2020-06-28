@@ -1,5 +1,4 @@
-## <a-scene> and the position Attribute
-### Experiment 2
+## Experiment 2: \<a-scene\> and the position Attribute
 
 #### New to Me
 - All aframe objects should be wrapped in an `<a-scene>` tag.
