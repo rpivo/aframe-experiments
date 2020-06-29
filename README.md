@@ -8,3 +8,4 @@
 - 6 / [The \<a-sphere\> Object](https://github.com/rpivo/aframe-experiments/tree/master/6)
 - 7 / [metalness, roughness, & wireframe Attributes](https://github.com/rpivo/aframe-experiments/tree/master/7)
 - 8 / [The \<a-cylinder\> Object](https://github.com/rpivo/aframe-experiments/tree/master/8)
+- 9 / [segments-radial, theta-start, & theta-length Attributes](https://github.com/rpivo/aframe-experiments/tree/master/9)
