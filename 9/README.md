@@ -1,4 +1,4 @@
-## Experiment 7: segments-radial, theta-start, & theta-length Attributes
+## Experiment 9: segments-radial, theta-start, & theta-length Attributes
 
 #### New to Me
 - The `segments-radial` attribute can be used on `<a-cylinder>` objects to convert the circular bases to n-gons.

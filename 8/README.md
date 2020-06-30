@@ -1,4 +1,4 @@
-## Experiment 7: The \<a-cylinder\> Object
+## Experiment 8: The \<a-cylinder\> Object
 
 #### New to Me
 - The `<a-cylinder>` object produces a cylinder.
