@@ -13,3 +13,4 @@
 - 11 / [The \<a-sky\> & \<a-assets\> Objects](https://github.com/rpivo/aframe-experiments/tree/master/11)
 - 12 / [Loading in Image Assets With \<a-assets\>](https://github.com/rpivo/aframe-experiments/tree/master/12)
 - 13 / [Intro to three.js](https://github.com/rpivo/aframe-experiments/tree/master/13)
+- 14 / [The a-frame Boilerplate](https://github.com/rpivo/aframe-experiments/tree/master/14)
