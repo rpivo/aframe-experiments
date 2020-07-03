@@ -1,4 +1,4 @@
-## Experiment 12: Loading in Image Assets With \<a-asset\>
+## Experiment 12: Loading in Image Assets With \<a-assets\>
 
 #### New to Me
 - To load in an image asset, add an `<img />` tag to `<a-asset>` that contains `id` and `src` attributes.
