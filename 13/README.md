@@ -1,4 +1,4 @@
-## Experiment 12: Intro to three.js
+## Experiment 13: Intro to three.js
 
 #### New to Me
 - three.js is the 3D-rendering library that a-frame is built on top of.
