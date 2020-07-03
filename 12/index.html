@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>Experiment 12</title>
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-assets>
+        <!-- no assets will be loaded in if not using a local server -->
+        <img id="random" src="./random.jpeg">
+      </a-assets>
+      <!-- this will not work if not using a local server -->
+      <a-plane
+        rotation="-90 0 0"
+        width="15"
+        height="10"
+        position="0 -2 -4" 
+        src="#random">
+      </a-plane>
+    </a-scene>
+  </body>
+</html>
