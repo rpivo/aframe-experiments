@@ -10,5 +10,5 @@
 - 08 / [The \<a-cylinder\> Object](https://github.com/rpivo/aframe-experiments/tree/master/8)
 - 09 / [segments-radial, theta-start, & theta-length Attributes](https://github.com/rpivo/aframe-experiments/tree/master/9)
 - 10 / [The \<a-plane\> Object](https://github.com/rpivo/aframe-experiments/tree/master/10)
-- 11 / [The \<a-sky\> & \<-assets\> Objects](https://github.com/rpivo/aframe-experiments/tree/master/11)
+- 11 / [The \<a-sky\> & \<a-assets\> Objects](https://github.com/rpivo/aframe-experiments/tree/master/11)
 - 12 / [Loading in Image Assets With \<a-asset\>](https://github.com/rpivo/aframe-experiments/tree/master/12)

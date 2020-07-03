@@ -1,4 +1,4 @@
-## Experiment 11: The \<a-sky\> & \<-assets\> Objects
+## Experiment 11: The \<a-sky\> & \<a-assets\> Objects
 
 #### New to Me
 - The `<a-sky>` object can be used to set a global "sky" color.
