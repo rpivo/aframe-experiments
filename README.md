@@ -16,3 +16,4 @@
 - 14 / [The a-frame Boilerplate](https://github.com/rpivo/aframe-experiments/tree/master/14)
 - 15 / [More About a-frame Primitives](https://github.com/rpivo/aframe-experiments/tree/master/15)
 - 16 / [three.js - The Object3D Base Class](https://github.com/rpivo/aframe-experiments/tree/master/16)
+- 17 / [The angle CLI Tool](https://github.com/rpivo/aframe-experiments/tree/master/17)

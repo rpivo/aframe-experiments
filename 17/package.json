@@ -1,0 +1,9 @@
+{
+  "name": "17",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aframe": "^1.0.4"
+  }
+}
