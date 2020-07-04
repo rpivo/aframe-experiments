@@ -18,3 +18,4 @@
 - 16 / [three.js - The Object3D Base Class](https://github.com/rpivo/aframe-experiments/tree/master/16)
 - 17 / [The angle CLI Tool](https://github.com/rpivo/aframe-experiments/tree/master/17)
 - 18 / [Assets From the aframe CDN](https://github.com/rpivo/aframe-experiments/tree/master/18)
+- 19 / [three.js - The Scene Class](https://github.com/rpivo/aframe-experiments/tree/master/19)
