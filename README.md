@@ -20,3 +20,4 @@
 - 18 / [Assets From the aframe CDN](https://github.com/rpivo/aframe-experiments/tree/master/18)
 - 19 / [three.js - The Scene Class](https://github.com/rpivo/aframe-experiments/tree/master/19)
 - 20 / [The Entity Component System](https://github.com/rpivo/aframe-experiments/tree/master/20)
+- 21 / [More on the Component Entity System](https://github.com/rpivo/aframe-experiments/tree/master/21)
