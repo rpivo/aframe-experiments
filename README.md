@@ -22,3 +22,4 @@
 - 20 / [The Entity Component System](https://github.com/rpivo/aframe-experiments/tree/master/20)
 - 21 / [More on the Entity Component System](https://github.com/rpivo/aframe-experiments/tree/master/21)
 - 22 / [three.js - PerspectiveCamera](https://github.com/rpivo/aframe-experiments/tree/master/22)
+- 23 / [The A-Frame Inspector](https://github.com/rpivo/aframe-experiments/tree/master/23)
