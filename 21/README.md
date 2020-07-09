@@ -1,4 +1,4 @@
-## Experiment 21: More on the Component Entity System
+## Experiment 21: More on the Entity Component System
 
 #### New to Me
 - "Composition Over Inheritance" is a common phrase used in OOP that also applies to ECS.
