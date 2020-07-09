@@ -21,3 +21,4 @@
 - 19 / [three.js - The Scene Class](https://github.com/rpivo/aframe-experiments/tree/master/19)
 - 20 / [The Entity Component System](https://github.com/rpivo/aframe-experiments/tree/master/20)
 - 21 / [More on the Component Entity System](https://github.com/rpivo/aframe-experiments/tree/master/21)
+- 22 / [three.js - PerspectiveCamera](https://github.com/rpivo/aframe-experiments/tree/master/22)
