@@ -24,3 +24,4 @@
 - 22 / [three.js - PerspectiveCamera](https://github.com/rpivo/aframe-experiments/tree/master/22)
 - 23 / [The A-Frame Inspector](https://github.com/rpivo/aframe-experiments/tree/master/23)
 - 24 / [More on the A-frame Inspector](https://github.com/rpivo/aframe-experiments/tree/master/24)
+- 25 / [three.js - The Viewing Frustum](https://github.com/rpivo/aframe-experiments/tree/master/25)
