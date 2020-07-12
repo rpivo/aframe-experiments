@@ -28,3 +28,4 @@
 - 26 / [The \<a-entity\> Object](https://github.com/rpivo/aframe-experiments/tree/master/26)
 - 27 / [Adding Components to the \<a-entity\> Object](https://github.com/rpivo/aframe-experiments/tree/master/27)
 - 28 / [three.js - BoxGeometry](https://github.com/rpivo/aframe-experiments/tree/master/28)
+- 29 / [Adding Textures](https://github.com/rpivo/aframe-experiments/tree/master/29)
