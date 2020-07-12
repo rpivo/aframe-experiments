@@ -1,4 +1,4 @@
-## Experiment 25: three.js - PerspectiveCamera & the Viewing Frustum
+## Experiment 25: three.js - The Viewing Frustum
 
 #### New to Me
 - PerspectiveCamera takes in 4 arguments: field of view, aspect ratio, `near`, and `far`.
