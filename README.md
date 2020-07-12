@@ -26,3 +26,4 @@
 - 24 / [More on the A-frame Inspector](https://github.com/rpivo/aframe-experiments/tree/master/24)
 - 25 / [three.js - The Viewing Frustum](https://github.com/rpivo/aframe-experiments/tree/master/25)
 - 26 / [The \<a-entity\> Object](https://github.com/rpivo/aframe-experiments/tree/master/26)
+- 27 / [Adding Components to the \<a-entity\> Object](https://github.com/rpivo/aframe-experiments/tree/master/27)
